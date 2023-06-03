@@ -1,7 +1,5 @@
 import './style.css'
 
-
-
 const updateCountdown = () => {
   const countDate = new Date('July 01, 2023 00:00:00').getTime();
   const now = new Date().getTime();

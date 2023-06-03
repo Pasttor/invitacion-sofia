@@ -35,7 +35,7 @@ a {
 
 .section {
   width: 100vw;
-  height: 100vh;
+  height: 60vh;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -87,7 +87,7 @@ a {
 .countdown {
 	width: 30%;
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 	text-align: center;
 	column-gap: 9%;
 	margin-bottom: 2%;
